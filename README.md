@@ -1,2 +1,2 @@
-# publishing-test 
+# publishing
 This repository for `ox-pos` releases
