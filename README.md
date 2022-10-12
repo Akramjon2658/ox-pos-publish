@@ -1,2 +1,2 @@
 # publishing
-This repository for `ox-pos` releases
+This repository for `ox-pos windows x64` releases
